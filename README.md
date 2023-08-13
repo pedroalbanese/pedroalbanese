@@ -1,8 +1,8 @@
-### Greetings 👋
+### Greetings!
 
 I'm a nonprofit organizations manager with emphasis in financial tracking systems, legal processing/tramitation and systems integration, passionate about cryptography, accounting and ancient history.
 
-<details><summary>🌱 I’m currently learning about</summary><br><pre>
+<details><summary>I’m currently learning about</summary><br><pre>
 Anubis Involutional SPN 128-bit block cipher (Barreto, ESAT/COSIC)
 CHASKEY Message Authentication Code (Nicky Mouha, ESAT/COSIC)
 Cubehash and SipHash64/128 (Daniel J. Bernstein & JP Aumasson)
