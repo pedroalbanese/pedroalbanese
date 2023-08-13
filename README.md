@@ -54,6 +54,26 @@ US FIPS 180-2 Secure Hash Standard (SHS) SHA1 and SHA2 Algorithms
 US FIPS 202 SHA-3 Permutation-Based Hash (instance of the Keccak)
 </pre></details>
 
+<details><summary>Unix Philosophy</summary><br><pre>
+The Unix philosophy is a set of principles and values that guide the design and implementation of the Unix operating system and other related systems. These principles were formulated by the original Unix developers in the 1970s and have been a significant influence on many modern operating systems and software.
+
+The Unix philosophy is characterized by several key ideas:
+
+   1. Simplicity: Unix emphasizes simplicity in both design and use. System components should be small, modular, and do one thing well. This facilitates understanding, maintenance, and software reusability.
+
+   2. Composition: Unix programs are designed to be combined and work together, following the principle of "do one thing and do it well." This allows users to create complex solutions by combining simple programs through pipes and input/output redirection.
+
+   3. Transparency: Unix adopts an "everything is a file" approach. This means that devices, processes, and other resources are represented as files in the file system, allowing them to be accessed and manipulated in a consistent manner.
+
+   4. Modularity: Unix is built based on a set of modular components, such as shells, utilities, and libraries. This allows developers to create new tools and extend the system incrementally without modifying existing code.
+
+   5. Portability: Unix was designed to be portable, meaning it can run on different hardware types. This is achieved by isolating hardware-specific functionality into abstraction layers, allowing the operating system to be easily adapted to different platforms.
+
+   6. File System Hierarchy: Unix adopts a standardized directory hierarchy, commonly known as the Filesystem Hierarchy Standard (FHS). This structure organizes files and directories in a logical and consistent manner, making it easy to locate and organize system data and programs.
+
+These principles of the Unix philosophy have been widely adopted and have influenced many other operating systems and software. They emphasize simplicity, modularity, interoperability, and flexibility, enabling users and developers to create efficient and adaptable solutions. The Unix philosophy also promotes collaboration among developers and software reuse, contributing to a vibrant open-source software community.
+</pre></details>
+
 <!--
 **pedroalbanese/pedroalbanese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
