@@ -54,7 +54,7 @@ US FIPS 180-2 Secure Hash Standard (SHS) SHA1 and SHA2 Algorithms
 US FIPS 202 SHA-3 Permutation-Based Hash (instance of the Keccak)
 </pre></details>
 
-<details><summary>Unix Philosophy</summary><br><pre>
+<details><summary>Unix Philosophy</summary><br>
 The Unix philosophy is a set of principles and values that guide the design and implementation of the Unix operating system and other related systems. These principles were formulated by the original Unix developers in the 1970s and have been a significant influence on many modern operating systems and software.
 
 The Unix philosophy is characterized by several key ideas:
@@ -72,7 +72,7 @@ The Unix philosophy is characterized by several key ideas:
    6. File System Hierarchy: Unix adopts a standardized directory hierarchy, commonly known as the Filesystem Hierarchy Standard (FHS). This structure organizes files and directories in a logical and consistent manner, making it easy to locate and organize system data and programs.
 
 These principles of the Unix philosophy have been widely adopted and have influenced many other operating systems and software. They emphasize simplicity, modularity, interoperability, and flexibility, enabling users and developers to create efficient and adaptable solutions. The Unix philosophy also promotes collaboration among developers and software reuse, contributing to a vibrant open-source software community.
-</pre></details>
+</details>
 
 <!--
 **pedroalbanese/pedroalbanese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
