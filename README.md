@@ -57,7 +57,7 @@ US FIPS 202 SHA-3 Permutation-Based Hash (instance of the Keccak)
 <details><summary>Unix Philosophy</summary><br>
 The Unix philosophy is a set of principles and values that guide the design and implementation of the Unix operating system and other related systems. These principles were formulated by the original Unix developers in the 1970s and have been a significant influence on many modern operating systems and software.  
   
-The Unix philosophy is characterized by several key ideas:
+#### The Unix philosophy is characterized by several key ideas:
 
    1. Simplicity: Unix emphasizes simplicity in both design and use. System components should be small, modular, and do one thing well. This facilitates understanding, maintenance, and software reusability.
 
