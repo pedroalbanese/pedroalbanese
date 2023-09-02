@@ -89,7 +89,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.paypal.com/donate?token=u_YEIOgws7Eyt3NqqiaANfXq54e_LGpgf-3vZuVeIGdMo5nWFnq6uQGbqmP0O5BUaGTPom1ACllAt1Bz)  
+![](https://komarev.com/ghpvc/?username=pedroalbanese&&style=flat&color=green) [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.paypal.com/donate?token=u_YEIOgws7Eyt3NqqiaANfXq54e_LGpgf-3vZuVeIGdMo5nWFnq6uQGbqmP0O5BUaGTPom1ACllAt1Bz)  
 
 ## 🛠 &nbsp;Tech Stack
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=black)&nbsp;
