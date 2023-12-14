@@ -14,6 +14,7 @@ GM/T 0002-2012 SM4 Block cipher with 128-bit key
 GM/T 0003-2012 SM2 Public key algorithm 256-bit
 GM/T 0004-2012 SM3 Message digest algorithm 256-bit hash value
 GM/T 0044-2016 SM9 Public key algorithm 256-bit
+GM/T 0086-2020 Specification of key management system based on SM9
 GOST 28147-89 64-bit block cipher (RFC 5830)
 GOST R 34.10-2012 VKO key agreement function (RFC 7836)
 GOST R 34.10-2012 public key signature function (RFC 7091)
