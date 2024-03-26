@@ -4,6 +4,8 @@ I'm a nonprofit organizations manager with emphasis in financial tracking system
 
 <details><summary>I’m currently learning about</summary><br><pre>
 BSI TR-03111 ECKA-EG (Elliptic Curve Key Agreement based on ElGamal)
+DSTU 7564:2014 Kupyna Hash Function
+DSTU 7624:2014 Kalyna Block Cipher
 ElGamal Cryptosystem
 ElGamal Signatures
 </pre></details>
