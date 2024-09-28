@@ -8,6 +8,7 @@ DSTU 7564:2014 Kupyna Hash Function
 DSTU 7624:2014 Kalyna Block Cipher
 ElGamal Cryptosystem
 ElGamal Signatures
+Schnorr Signatures
 </pre></details>
 
 <details><summary>Unix Philosophy</summary><br>
