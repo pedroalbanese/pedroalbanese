@@ -3,12 +3,30 @@
 I'm a nonprofit organizations manager with emphasis in financial tracking systems, legal processing/tramitation and systems integration, passionate about cryptography, accounting and ancient history.
 
 <details><summary>I’m currently learning about</summary><br><pre>
-BSI TR-03111 ECKA-EG (Elliptic Curve Key Agreement based on ElGamal)
-DSTU 7564:2014 Kupyna Hash Function
-DSTU 7624:2014 Kalyna Block Cipher
+BSI TR-03111 Technical Guideline
 ElGamal Cryptosystem
-ElGamal Signatures
-Schnorr Signatures
+ElGamal Signatures (Tahir Al-Jamal)
+Schnorr Signatures (Claus-Peter Schnorr)
+BLS Signatures (Boneh–Lynn–Shacham)
+
+  cowsay
+ _________________________________________
+/ GOST 28147-89 is a 64-bit symmetric     \
+| block cipher with a 256-bit key         |
+| developed in the former Soviet Union.   |
+\ This module implements GOST encryption. /
+ -----------------------------------------
+                \
+                 \
+        ___.___    ~ ^^^^       _____________
+        \  \\  \   ,, ???      |        '\\\\\
+         \  \\  \  <   ?;      |        ' ____|_
+          --\//,- \_.  /_____  |        '||::::::
+              o- /   \_/    '\ |        '||_____|
+              | \ '   o       '________|_____|
+              |  )-   #     <  ___/____|___\___
+              `_/'------------|    _    '  <<<:|
+                  /________\| |_________'___o_o|
 </pre></details>
 
 <details><summary>Unix Philosophy</summary><br>
