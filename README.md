@@ -8,7 +8,9 @@ ElGamal Cryptosystem
 ElGamal Signatures (Tahir Al-Jamal)
 Schnorr Signatures (Claus-Peter Schnorr)
 BLS Signatures (Boneh–Lynn–Shacham)
+</pre>
 
+<pre>
  _________________________________________
 / GOST 28147-89 is a 64-bit symmetric     \
 | block cipher with a 256-bit key         |
@@ -26,6 +28,7 @@ BLS Signatures (Boneh–Lynn–Shacham)
               |  )-   #     <  ___/____|___\___
               `_/'------------|    _    '  <<<:|
                   /________\| |_________'___o_o|
+</pre>
 
 </pre></details>
 
