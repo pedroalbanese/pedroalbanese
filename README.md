@@ -8,6 +8,25 @@ ElGamal Cryptosystem
 ElGamal Signatures (Tahir Al-Jamal)
 Schnorr Signatures (Claus-Peter Schnorr)
 BLS Signatures (Boneh–Lynn–Shacham)
+
+ _________________________________________
+/ GOST 28147-89 is a 64-bit symmetric     \
+| block cipher with a 256-bit key         |
+| developed in the former Soviet Union.   |
+\ This module implements GOST encryption. /
+ -----------------------------------------
+                \
+                 \
+        ___.___    ~ ^^^^       _____________
+        \  \\  \   ,, ???      |        '\\\\\
+         \  \\  \  <   ?;      |        ' ____|_
+          --\//,- \_.  /_____  |        '||::::::
+              o- /   \_/    '\ |        '||_____|
+              | \ '   o       '________|_____|
+              |  )-   #     <  ___/____|___\___
+              `_/'------------|    _    '  <<<:|
+                  /________\| |_________'___o_o|
+
 </pre></details>
 
 <details><summary>Unix Philosophy</summary><br>
