@@ -10,8 +10,7 @@ Schnorr Signatures (Claus-Peter Schnorr)
 BLS Signatures (Boneh–Lynn–Shacham)
 </pre>
  
-<pre>
- _________________________________________
+<pre> _________________________________________
 / GOST 28147-89 is a 64-bit symmetric     \
 | block cipher with a 256-bit key         |
 | developed in the former Soviet Union.   |
