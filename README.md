@@ -8,9 +8,7 @@ ElGamal Cryptosystem
 ElGamal Signatures (Tahir Al-Jamal)
 Schnorr Signatures (Claus-Peter Schnorr)
 BLS Signatures (Boneh–Lynn–Shacham)
-</pre>
-
-<pre>
+ 
  _________________________________________
 / GOST 28147-89 is a 64-bit symmetric     \
 | block cipher with a 256-bit key         |
@@ -28,9 +26,7 @@ BLS Signatures (Boneh–Lynn–Shacham)
               |  )-   #     <  ___/____|___\___
               `_/'------------|    _    '  <<<:|
                   /________\| |_________'___o_o|
-</pre>
-
-</pre></details>
+</pre>></details>
 
 <details><summary>Unix Philosophy</summary><br>
 The Unix philosophy is a set of principles and values that guide the design and implementation of the Unix operating system and other related systems. These principles were formulated by the original Unix developers in the 1970s and have been a significant influence on many modern operating systems and software.  
