@@ -8,6 +8,7 @@ ElGamal Cryptosystem
 ElGamal Signatures (Tahir Al-Jamal)
 Schnorr Signatures (Claus-Peter Schnorr)
 BLS Signatures (Boneh–Lynn–Shacham)
+IBE (Identity-based Encryption) (Boneh-Franklin)
 </pre>
  
 <pre> _________________________________________
