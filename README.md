@@ -1,6 +1,6 @@
 ### Greetings!
 
-I'm a nonprofit organizations manager with emphasis in financial tracking systems, legal processing/tramitation and systems integration, passionate about cryptography, accounting and ancient history.
+I'm a nonprofit organizations manager and researcher with emphasis in financial tracking systems, legal processing/tramitation and systems integration, passionate about cryptography, accounting and ancient history.
 
 <details><summary>I’m currently learning about</summary><br><pre>
 BSI TR-03111 ECC Technical Guideline
