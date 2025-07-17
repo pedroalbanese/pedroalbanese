@@ -80,7 +80,7 @@ Here are some ideas to get you started:
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat&logo=windows&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=flat&logo=Raspberry-Pi)
 ![FreeBSD](https://img.shields.io/badge/-FreeBSD-%23870000?style=flat&logo=freebsd&logoColor=white)
-![OpanBSD](https://img.shields.io/badge/-OpenBSD-%23870000?style=flat&logo=openbsd&logoColor=yellow)
+![OpenBSD](https://img.shields.io/badge/-OpenBSD-%23870000?style=flat&logo=openbsd&logoColor=yellow)
 
 ## Contact  
 <a href="https://www.linkedin.com/in/pedro-albanese-3b4442116" target="_blank">
