@@ -2,6 +2,8 @@
 
 I'm a nonprofit organization manager and researcher with an emphasis on financial tracking systems, legal processing/tramitation, and systems integration, passionate about cryptography, accounting, and ancient history.
 
+🇵🇸 Free Palestine!
+
 <details><summary>I’m currently learning about</summary><br><pre>
 BSI TR-03111 ECC Technical Guideline
 ElGamal Cryptosystem
