@@ -11,7 +11,7 @@ ElGamal Signatures (Tahir Al-Jamal)
 Schnorr Signatures (Claus-Peter Schnorr)
 BLS Signatures (Boneh–Lynn–Shacham)
 IBE (Identity-based Encryption) (Boneh-Franklin, Boneh-Boyen, Sakai-Kasahara)
-IBS (Identity-based Signatures) (Barreto et al., Cha-Cheon, Hess)
+IBS (Identity-based Signatures) (Barreto et al., Cha-Cheon, Galindo-Garcia, Hess)
 </pre>
  
 <pre> _________________________________________
