@@ -34,7 +34,7 @@ Threshold IBE (Wei Gao et al.)
                   /________\| |_________'___o_o|
 </pre></details>
 
-<details><summary>National Cryptographic Standards</summary><br>
+<details><summary>National Cryptographic Standards</summary>
  
 ### 🌐 National Cryptographic Standards
  
