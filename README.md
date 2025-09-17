@@ -69,6 +69,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## My Articles
+[![Acessar Artigo](https://img.shields.io/badge/Acessar_Artigo_Zenodo-0077C8?style=for-the-badge&logo=zenodo&logoColor=white)](https://doi.org/10.5281/zenodo.17145036)
+
 ![](https://komarev.com/ghpvc/?username=pedroalbanese&&style=flat&color=green) [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.paypal.com/donate/?hosted_button_id=4SVZCP9EEWTNE)  
 
 ## 🛠 &nbsp;Tech Stack
