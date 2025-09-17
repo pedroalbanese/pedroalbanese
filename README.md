@@ -70,7 +70,8 @@ Here are some ideas to get you started:
 -->
 
 ### My Articles
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17145036-blue.svg)](https://doi.org/10.5281/zenodo.17145036)
+- Enhanced ElGamal [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17145036-blue.svg)](https://doi.org/10.5281/zenodo.17145036)
+- IBC (Identity-Based Cryptography) [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17145186-blue.svg)](https://doi.org/10.5281/zenodo.17145186)
 
 ![](https://komarev.com/ghpvc/?username=pedroalbanese&&style=flat&color=green) [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.paypal.com/donate/?hosted_button_id=4SVZCP9EEWTNE)  
 
