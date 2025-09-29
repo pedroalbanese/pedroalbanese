@@ -1,6 +1,6 @@
 ### Greetings!
 
-I'm a nonprofit organization manager, digital security polymath, and researcher with an emphasis on financial tracking systems, legal processing/tramitation, and systems integration. Passionate about cryptography, accounting, and ancient history.
+I'm a nonprofit organization manager, and researcher with an emphasis on financial tracking systems, legal processing/tramitation, and systems integration. Passionate about cryptography, accounting, and ancient history.
 
 #### 🇵🇸 Free Palestine!
 
@@ -68,10 +68,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### My Articles
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17145036-blue.svg)](https://doi.org/10.5281/zenodo.17145036) Enhanced ElGamal Signature Scheme  
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.17145186-blue.svg)](https://doi.org/10.5281/zenodo.17145186) IBC (Identity-Based Cryptography)
 
 ![](https://komarev.com/ghpvc/?username=pedroalbanese&&style=flat&color=green) [![Buy Me A Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://www.paypal.com/donate/?hosted_button_id=4SVZCP9EEWTNE)  
 
