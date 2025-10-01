@@ -5,6 +5,7 @@ I'm a nonprofit organization manager and researcher with an emphasis on financia
 #### 🇵🇸 Free Palestine!
 
 <details><summary>I’m currently learning about</summary><br>
+
 - BSI TR-03111 ECC Technical Guideline
 - ElGamal Cryptosystem
 - ElGamal Signatures (Tahir Al-Jamal)
