@@ -36,33 +36,6 @@ The Unix philosophy is a set of principles and values that guide the design and 
 These principles of the Unix philosophy have been widely adopted and have influenced many other operating systems and software. They emphasize simplicity, modularity, interoperability, and flexibility, enabling users and developers to create efficient and adaptable solutions. The Unix philosophy also promotes collaboration among developers and software reuse, contributing to a vibrant open-source software community.
 </details>
 
-<details><summary>Geek Code</summary><br>
-<pre> _________________________________________
-/ GOST 28147-89 is a 64-bit symmetric     \
-| block cipher with a 256-bit key         |
-| developed in the former Soviet Union.   |
-\ This module implements GOST encryption. /
- -----------------------------------------
-                \
-                 \
-        ___.___    ~ ^^^^       _____________
-        \  \\  \   ,, ???      |        '\\\\\
-         \  \\  \  <   ?;      |        ' ____|_
-          --\//,- \_.  /_____  |        '||::::::
-              o- /   \_/    '\ |        '||_____|
-              | \ '   o       '________|_____|
-              |  )-   #     <  ___/____|___\___
-              `_/'------------|    _    '  <<<:|
-                  /________\| |_________'___o_o|
-</pre>
-
-```
------BEGIN GEEK CODE BLOCK-----
-GCS/MU a+ d++ s: L+ U+ w++ C+++ P--- N-- E- M-- W++ PS++ PE Y+ e- h* r- z- !tv
-------END GEEK CODE BLOCK------
-```
-</details>
-
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--3163--5551-brightgreen?logo=orcid&style=flat)](https://orcid.org/0009-0003-3163-5551)
 
 <!--
