@@ -55,6 +55,12 @@ These principles of the Unix philosophy have been widely adopted and have influe
                   /________\| |_________'___o_o|
 </pre>
 
+```
+-----BEGIN GEEK CODE BLOCK-----
+GCS/MU a+ d++ s: L+ U+ w++ C+++ P--- N-- E- M-- W++ PS++ PE Y+ e- h* r- z- !tv
+------END GEEK CODE BLOCK------
+```
+
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--3163--5551-brightgreen?logo=orcid&style=flat)](https://orcid.org/0009-0003-3163-5551)
 
 <!--
