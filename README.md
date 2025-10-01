@@ -4,16 +4,16 @@ I'm a nonprofit organization manager and researcher with an emphasis on financia
 
 #### 🇵🇸 Free Palestine!
 
-<details><summary>I’m currently learning about</summary><br><pre>
-BSI TR-03111 ECC Technical Guideline
-ElGamal Cryptosystem
-ElGamal Signatures (Tahir Al-Jamal)
-Schnorr Signatures (Claus-Peter Schnorr)
-BLS Signatures (Boneh–Lynn–Shacham)
-IBE (Identity-based Encryption) (Boneh-Franklin, Boneh-Boyen, Sakai-Kasahara)
-IBS (Identity-based Signatures) (Barreto et al., Cha-Cheon, Galindo-Garcia, Hess)
-Threshold IBE (Wei Gao et al.)
-</pre>
+<details><summary>I’m currently learning about</summary><br>
+- BSI TR-03111 ECC Technical Guideline
+- ElGamal Cryptosystem
+- ElGamal Signatures (Tahir Al-Jamal)
+- Schnorr Signatures (Claus-Peter Schnorr)
+- BLS Signatures (Boneh–Lynn–Shacham)
+- IBE (Identity-based Encryption) (Boneh-Franklin, Boneh-Boyen, Sakai-Kasahara)
+- IBS (Identity-based Signatures) (Barreto et al., Cha-Cheon, Galindo-Garcia, Hess)
+- Threshold IBE (Wei Gao et al.)
+
  
 <pre> _________________________________________
 / GOST 28147-89 is a 64-bit symmetric     \
@@ -53,12 +53,6 @@ The Unix philosophy is a set of principles and values that guide the design and 
 
 These principles of the Unix philosophy have been widely adopted and have influenced many other operating systems and software. They emphasize simplicity, modularity, interoperability, and flexibility, enabling users and developers to create efficient and adaptable solutions. The Unix philosophy also promotes collaboration among developers and software reuse, contributing to a vibrant open-source software community.
 </details>
-
-```
------BEGIN GEEK CODE BLOCK-----
-GCS/MU a+ d++ s: L+ U+ w++ C+++ P--- N-- E- M-- W++ PS++ PE Y+ e- h* r- z- !tv
-------END GEEK CODE BLOCK------
-```
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--3163--5551-brightgreen?logo=orcid&style=flat)](https://orcid.org/0009-0003-3163-5551)
 
