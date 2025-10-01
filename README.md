@@ -14,26 +14,7 @@ I'm a nonprofit organization manager and researcher with an emphasis on financia
 - IBE (Identity-based Encryption) (Boneh-Franklin, Boneh-Boyen, Sakai-Kasahara)
 - IBS (Identity-based Signatures) (Barreto et al., Cha-Cheon, Galindo-Garcia, Hess)
 - Threshold IBE (Wei Gao et al.)
-
- 
-<pre> _________________________________________
-/ GOST 28147-89 is a 64-bit symmetric     \
-| block cipher with a 256-bit key         |
-| developed in the former Soviet Union.   |
-\ This module implements GOST encryption. /
- -----------------------------------------
-                \
-                 \
-        ___.___    ~ ^^^^       _____________
-        \  \\  \   ,, ???      |        '\\\\\
-         \  \\  \  <   ?;      |        ' ____|_
-          --\//,- \_.  /_____  |        '||::::::
-              o- /   \_/    '\ |        '||_____|
-              | \ '   o       '________|_____|
-              |  )-   #     <  ___/____|___\___
-              `_/'------------|    _    '  <<<:|
-                  /________\| |_________'___o_o|
-</pre></details>
+</details>
 
 <details><summary>Unix Philosophy</summary><br>
 The Unix philosophy is a set of principles and values that guide the design and implementation of the Unix operating system and other related systems. These principles were formulated by the original Unix developers in the 1970s and have been a significant influence on many modern operating systems and software.  
@@ -54,6 +35,25 @@ The Unix philosophy is a set of principles and values that guide the design and 
 
 These principles of the Unix philosophy have been widely adopted and have influenced many other operating systems and software. They emphasize simplicity, modularity, interoperability, and flexibility, enabling users and developers to create efficient and adaptable solutions. The Unix philosophy also promotes collaboration among developers and software reuse, contributing to a vibrant open-source software community.
 </details>
+
+<pre> _________________________________________
+/ GOST 28147-89 is a 64-bit symmetric     \
+| block cipher with a 256-bit key         |
+| developed in the former Soviet Union.   |
+\ This module implements GOST encryption. /
+ -----------------------------------------
+                \
+                 \
+        ___.___    ~ ^^^^       _____________
+        \  \\  \   ,, ???      |        '\\\\\
+         \  \\  \  <   ?;      |        ' ____|_
+          --\//,- \_.  /_____  |        '||::::::
+              o- /   \_/    '\ |        '||_____|
+              | \ '   o       '________|_____|
+              |  )-   #     <  ___/____|___\___
+              `_/'------------|    _    '  <<<:|
+                  /________\| |_________'___o_o|
+</pre>
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--3163--5551-brightgreen?logo=orcid&style=flat)](https://orcid.org/0009-0003-3163-5551)
 
