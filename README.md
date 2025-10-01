@@ -54,7 +54,7 @@ The Unix philosophy is a set of principles and values that guide the design and 
 These principles of the Unix philosophy have been widely adopted and have influenced many other operating systems and software. They emphasize simplicity, modularity, interoperability, and flexibility, enabling users and developers to create efficient and adaptable solutions. The Unix philosophy also promotes collaboration among developers and software reuse, contributing to a vibrant open-source software community.
 </details>
 
-[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--3163--5551-brightgreen?logo=orcid&style=flat-square)](https://orcid.org/0009-0003-3163-5551)
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--3163--5551-brightgreen?logo=orcid&style=flat)](https://orcid.org/0009-0003-3163-5551)
 
 <!--
 **pedroalbanese/pedroalbanese** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
