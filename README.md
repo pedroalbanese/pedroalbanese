@@ -14,6 +14,7 @@ I'm a nonprofit organization manager and independent researcher with an emphasis
 - IBE (Identity-based Encryption) (Boneh-Franklin, Boneh-Boyen, Sakai-Kasahara)
 - IBS (Identity-based Signatures) (Barreto et al., Cha-Cheon, Galindo-Garcia, Hess)
 - Threshold IBE (Wei Gao et al.)
+- LFSR-Based Ciphers
 </details>
 
 <details><summary>Unix Philosophy</summary><br>
