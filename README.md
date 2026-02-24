@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
-![Crystal](https://img.shields.io/badge/Crystal-3776AB?style=flat&logo=python&logoColor=white)&nbsp;
+![Crystal](https://img.shields.io/badge/Crystal-3776AB?style=flat&logo=crystal&logoColor=white)&nbsp;
 ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white)&nbsp;
 ![AHK](https://img.shields.io/badge/AutoHotkey-334455.svg?style=flat&logo=AutoHotkey&logoColor=white)&nbsp;
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
