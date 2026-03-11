@@ -76,8 +76,4 @@ Here are some ideas to get you started:
 ## Contact  
 <a href="https://www.linkedin.com/in/pedro-albanese-3b4442116" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-pedroalbanese-05122A?style=flat&logo=linkedin" alt="linkedin"/> 
-</a>  
-   
-<a href="mailto:pedroalbanese@hotmail.com">
-  <img align="center" src="https://img.shields.io/badge/-pedroalbanese@hotmail.com-05122A?style=flat&logo=hotmail" alt="Email"/>
 </a>
