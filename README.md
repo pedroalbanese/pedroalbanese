@@ -79,5 +79,5 @@ Here are some ideas to get you started:
 </a>  
 
 <a href="mailto:pedroalbanese@hotmail.com">
-  <img align="center" src="https://img.shields.io/badge/-pedroalbanese@hotmail.com-05122A?style=flat&logo=gmail" alt="Email"/>
+  <img align="center" src="https://img.shields.io/badge/-pedroalbanese@hotmail.com-05122A?style=flat&logo=hotmail" alt="Email"/>
 </a>
