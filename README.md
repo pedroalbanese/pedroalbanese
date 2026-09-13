@@ -1,6 +1,6 @@
 ### Greetings!
 
-I'm a nonprofit organization manager and independent researcher with an emphasis on financial tracking systems, legal processing/tramitation, and systems integration. Passionate about cryptography, accounting, and ancient history.
+I'm a security engineer, nonprofit organization manager and independent researcher with an emphasis on financial tracking systems, legal processing/tramitation, and systems integration. Passionate about cryptography, accounting, and ancient history.
 
 #### 🇵🇸 Free Palestine!
 
